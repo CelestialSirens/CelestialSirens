@@ -1,8 +1,10 @@
-## Hi there 👋
-
-<h1> 
-Hey!
-</h1>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank"> Celestial Sirens</a></b></samp></h3>
+<p align="center"><br>
+  <samp>
+    「 Cyber Security student @ <b>Aston University</b> 」<br>
+    A little bit dumb <b>In a good way</b> 
+  </samp>
+</p>
 
 <!--
 **CelestialSirens/CelestialSirens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
