@@ -2,7 +2,7 @@
 <p align="center"><br>
   <samp>
     「 Cyber Security student @ <b>Aston University</b> 」<br>
-    A little bit dumb <b>In a good way</b> 
+    A little bit dumb | <b>In a good way</b> 
   </samp>
 </p>
 
