@@ -2,13 +2,13 @@
 <p align="center"><br>
   <samp>
     「 Cyber Security student @ <b>Aston University</b> 」<br>
-    A little bit dumb | <b>In a good way</b> 
+                 | Currently learning C++ | 
   </samp>
 </p>
 
 # <h1 align="center"> About me:
 <p align="center"> 
-I sometimes work on some stuff but most of the time I tend to do research more, whether that be in general Security practices, random historical things, <i>sound</i>  or generalised programming.     
+I sometimes work on some stuff but most of the time I tend to do research more, whether that be in general Security practices, networking, or generalised programming.     
 </p>
 
 <!--
