@@ -1,8 +1,7 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank"> Celestial Sirens</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Cyber Security student @ <b>Aston University</b> 」<br>
-                 | Currently learning C++ | 
+    「 Cyber Security student @ <b>Aston University</b> 」<br>               
   </samp>
 </p>
 
